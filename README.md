@@ -1,4 +1,4 @@
-# -------------------------------------- *Xpress* --------------------------------------
+# ---------------------------------- *Xpress* -----------------------------------
 
 ### Xpress is a platform where you can create a publication, write and release blogs on it. Follow you inspiration get notified on release of blogs from your favourite. Write news, poems, stories, politics, sports, recipes, anime,etc.
 
